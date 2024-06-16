@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Saiharitha3
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate with web development specialists
-- 📫 reach me @ sharitha313@gmail.com
+- 👋 Hi, I’m @Saiharitha S.
+- 👀 Pssionate about Web Development
+- 🌱 Currently diving deep into HTML, CSS & Javascript
+- 💞️ Excited to collaborate with fellow web development enthusiasts
+- 📫 Reach me @ sharitha313@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: What's a web developer's favorite snack? Cookies!
 
