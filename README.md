@@ -4,8 +4,13 @@
 - 📫 Reach me @ sharitha313@gmail.com
 - ⚡ Fun fact: What's a web developer's favorite snack? Cookies!
 
-- hacktoberfest2024
-  [![An image of @saiharitha3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiharitha3)](https://holopin.io/@saiharitha3)
+## Hacktoberfest Badges 🎉
+
+| Date Awarded       | Badge Preview                                                                 |
+|--------------------|-------------------------------------------------------------------------------|
+| **2024-10-18**     | ![Badge](https://api.hackertarget.com/badge/cm2f0l9cm111800cjphvpqjmyy.png)   |
+| **2024-10-26**     | ![Badge](https://api.hackertarget.com/badge/cm2qag16e139930cl6o6mgx3jg.png)   |
+| **2024-10-28**     | ![Badge](https://api.hackertarget.com/badge/cm2t4d8qa206380cmmqk3ow91g.png)   |
 
 
 <!---
