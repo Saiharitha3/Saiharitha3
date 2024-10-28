@@ -4,13 +4,6 @@
 - 📫 Reach me @ sharitha313@gmail.com
 - ⚡ Fun fact: What's a web developer's favorite snack? Cookies!
 
-## Hacktoberfest Badges 🎉
-
-| Date Awarded       | Badge Preview                                                                 |
-|--------------------|-------------------------------------------------------------------------------|
-| **2024-10-18**     | ![Badge](https://api.hackertarget.com/badge/cm2f0l9cm111800cjphvpqjmyy.png)   |
-| **2024-10-26**     | ![Badge](https://api.hackertarget.com/badge/cm2qag16e139930cl6o6mgx3jg.png)   |
-| **2024-10-28**     | ![Badge](https://api.hackertarget.com/badge/cm2t4d8qa206380cmmqk3ow91g.png)   |
 
 
 <!---
