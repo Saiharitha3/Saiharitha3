@@ -62,7 +62,6 @@
 
 ### 📊 My GitHub Stats:
 ![Sai Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiharitha3&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Saiharitha3&theme=radical&hide_border=true)
 
 ### 🔝 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact)
