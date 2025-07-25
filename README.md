@@ -3,8 +3,8 @@
 </h1>
 
 <p>
-  👩‍💻 Experienced Full Stack Developer based in Flagstaff, AZ.<br/>
-  🎓 Pursuing M.S. in Computer Science at Northern Arizona University.<br/>
+  👩‍💻 Experienced Full Stack Developer based in USA<br/>
+  🎓 Completed M.S. in Computer Science at Northern Arizona University.<br/>
   🌟 Passionate about building scalable web applications and crafting user-centric designs.<br/>
   📈 Significant experience with Agile Development, RESTful APIs, and Automated Testing.<br/>
   ⚡ Fun Fact: What's a web developer's favorite snack? <strong>Cookies 😂!!</strong><br/> 
