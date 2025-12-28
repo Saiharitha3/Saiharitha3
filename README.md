@@ -30,7 +30,6 @@
 
 ### 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Saiharitha3&show_icons=true&hide_title=true&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact)
 
 ---
