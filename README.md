@@ -1,63 +1,47 @@
-<h1 align="left">
-  Hi, I'm <a href="https://github.com/Saiharitha3" target="_blank">Sai Haritha Sardena</a> 👋
-</h1>
+<h2 align="left">
+  Hi, I'm Sai Haritha Sardena 👋
+</h2>
 
 <p>
-  Full Stack Developer based in the United States<br/>
-  M.S. in Computer Science — Northern Arizona University<br/>
+  Full Stack Developer · M.S. Computer Science (Northern Arizona University)<br/>
+  United States
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🛠️ Skills
 
-I am a Full Stack Developer with strong experience in designing, developing, and deploying scalable web applications.  
-I enjoy building clean, maintainable systems with a focus on performance, usability, and reliability.
-
-- Experience in **Agile/Scrum development environments**
-- Strong background in **RESTful APIs, backend services, and frontend frameworks**
-- Passionate about **clean architecture, testing, and user-centric design**
-- Comfortable working across the full software development lifecycle
-
----
-
-### 🛠️ Technical Skills
-
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Bootstrap
-
-**Backend**
-- Node.js, Python, Java
-- REST API Development
-
-**Databases**
-- PostgreSQL
-
-**Tools & Platforms**
-- Git & GitHub
-- Docker
-- Postman
-- Figma (UI/UX Collaboration)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="22"/>
+</p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub
 
-![Sai Haritha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saiharitha3&show_icons=true&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Saiharitha3&show_icons=true&hide_title=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact)
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Connect
 
-<a href="https://www.linkedin.com/in/sai-haritha-sardena/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sharitha313@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Saiharitha3">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/sai-haritha-sardena/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharitha313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
