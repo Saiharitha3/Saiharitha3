@@ -117,6 +117,6 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saiharitha3&color=blueviolet&style=flat-square" alt="Profile Views"/>
   
-  <p>⭐️ From <a href="https://github.com/Saiharitha3">Saiharitha3</a></p>
+  
 </div>
 
