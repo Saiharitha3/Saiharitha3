@@ -33,7 +33,7 @@
 <!-- Backend & Frameworks -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="22"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="22"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="22"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="22"/>-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="22"/>
 
 <!-- Databases -->
@@ -44,14 +44,14 @@
 
 <!-- DevOps & Cloud -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="22"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="22"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="22"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="22"/>-->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="22"/>-->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="22"/>-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="22"/>
 
 <!-- Messaging -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="22"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="22"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="22"/>-->
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="22"/>-->
 
 <!-- Testing & Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"/>
@@ -61,7 +61,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="22"/>
 
 <!-- AI / ML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="22"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="22"/>-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="22"/>
 
 <!-- Design -->
