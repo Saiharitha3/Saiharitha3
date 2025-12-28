@@ -88,7 +88,7 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
 <table>
 <tr>
 <td width="20%" valign="top">
----
+
 
 ### 📊 GitHub
 
