@@ -90,11 +90,7 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
 <td width="20%" valign="top">
 
 
-<!--### 📊 GitHub
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact)
-
----->
+---
 
 ## 📈 Contribution Graph
 
