@@ -83,11 +83,6 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
 </tr>
 </table>
 
----
-
-<table>
-<tr>
-<td width="20%" valign="top">
 
 ---
 
@@ -122,5 +117,4 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
   <img src="https://komarev.com/ghpvc/?username=Saiharitha3&color=blueviolet&style=flat-square" alt="Profile Views"/>
   
   
-</div>
 
