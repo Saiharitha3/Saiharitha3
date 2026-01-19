@@ -89,6 +89,14 @@ Passionate Full Stack Developer with a Master's in Computer Science, specializin
 <tr>
 <td width="20%" valign="top">
 
+---
+
+## 🧠 Top Programming Languages
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiharitha3&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ---
 
